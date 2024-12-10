@@ -1,0 +1,801 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3" pages="33">
+  <diagram name="1" id="XoWyrJGA2okFahLqpIQJ">
+    <mxGraphModel dx="1434" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="1">
+      <root>
+        <mxCell id="YCeXka0qfhqYGI-nKGoZ-0" />
+        <mxCell id="YCeXka0qfhqYGI-nKGoZ-1" parent="YCeXka0qfhqYGI-nKGoZ-0" />
+        <mxCell id="YCeXka0qfhqYGI-nKGoZ-2" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;image=https://cursos-dev.com/assets/images/logo-horizontal.png;" parent="YCeXka0qfhqYGI-nKGoZ-1" vertex="1">
+          <mxGeometry width="282.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YCeXka0qfhqYGI-nKGoZ-3" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;image=https://cursos-dev.com/assets/images/logo-horizontal.png;" parent="YCeXka0qfhqYGI-nKGoZ-1" vertex="1">
+          <mxGeometry width="282.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="S1sp6bmm1hIwgZpCPo-N-0" value="ATRIBUTOS DE CALIDAD: MODIFICABILIDAD" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="YCeXka0qfhqYGI-nKGoZ-1" vertex="1">
+          <mxGeometry x="120" y="160" width="620" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S1sp6bmm1hIwgZpCPo-N-1" value="Facilidad para hacer cambios en la aplicación.&lt;div&gt;Tener un sistema que permita agregar nuevas funcionalidades sin afectar el código existente.&lt;/div&gt;&lt;div&gt;Usar patrones de diseño de software como el patrón strategy o el patrón observer.&lt;/div&gt;&lt;div&gt;Medir el tiempo que se tarda en agregar una nueva funcionalidad&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=16;spacing=20;" parent="YCeXka0qfhqYGI-nKGoZ-1" vertex="1">
+          <mxGeometry x="200" y="280" width="480" height="290" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="2" id="TlQoMNSWdtEvTHaH4HFi">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="1">
+      <root>
+        <mxCell id="rryPPFNc4KLdVDdPvRb9-0" />
+        <mxCell id="rryPPFNc4KLdVDdPvRb9-1" parent="rryPPFNc4KLdVDdPvRb9-0" />
+        <mxCell id="rryPPFNc4KLdVDdPvRb9-2" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;image=https://cursos-dev.com/assets/images/logo-horizontal.png;" parent="rryPPFNc4KLdVDdPvRb9-1" vertex="1">
+          <mxGeometry width="282.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rryPPFNc4KLdVDdPvRb9-3" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;image=https://cursos-dev.com/assets/images/logo-horizontal.png;" parent="rryPPFNc4KLdVDdPvRb9-1" vertex="1">
+          <mxGeometry width="282.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rryPPFNc4KLdVDdPvRb9-4" value="ATRIBUTOS DE CALIDAD: MODULARIDAD" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="rryPPFNc4KLdVDdPvRb9-1" vertex="1">
+          <mxGeometry x="120" y="160" width="620" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rryPPFNc4KLdVDdPvRb9-5" value="Dividir la aplicación en módulos independientes.&lt;div&gt;Usar el framework Express como un módulo dentro de la aplicación.&lt;/div&gt;&lt;div&gt;Podríamos descomponer la aplicación en módulos o microservicios o monolitos modulares.&lt;/div&gt;&lt;div&gt;Evaluar la cantidad de dependencias entre los módulos.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=16;spacing=20;" parent="rryPPFNc4KLdVDdPvRb9-1" vertex="1">
+          <mxGeometry x="200" y="280" width="480" height="290" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="3" id="ORgMLxvjA3NSTgSv5s62">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="1">
+      <root>
+        <mxCell id="avtcU0ho7hwgZ0PK7vTc-0" />
+        <mxCell id="avtcU0ho7hwgZ0PK7vTc-1" parent="avtcU0ho7hwgZ0PK7vTc-0" />
+        <mxCell id="avtcU0ho7hwgZ0PK7vTc-2" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;image=https://cursos-dev.com/assets/images/logo-horizontal.png;" parent="avtcU0ho7hwgZ0PK7vTc-1" vertex="1">
+          <mxGeometry width="282.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="avtcU0ho7hwgZ0PK7vTc-3" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;image=https://cursos-dev.com/assets/images/logo-horizontal.png;" parent="avtcU0ho7hwgZ0PK7vTc-1" vertex="1">
+          <mxGeometry width="282.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="avtcU0ho7hwgZ0PK7vTc-4" value="ATRIBUTOS DE CALIDAD: REUSABILIDAD" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="avtcU0ho7hwgZ0PK7vTc-1" vertex="1">
+          <mxGeometry x="120" y="160" width="620" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="avtcU0ho7hwgZ0PK7vTc-5" value="Posibilidad de reusar componentes y/o librerías en diferentes aplicaciones.&lt;div&gt;Podríamos crear una librería y ésta usarla en diferentes aplicaciones.&lt;/div&gt;&lt;div&gt;Contar cuántas veces se utiliza un componente o librería en diferentes proyectos.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=16;spacing=20;" parent="avtcU0ho7hwgZ0PK7vTc-1" vertex="1">
+          <mxGeometry x="200" y="280" width="480" height="290" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="4" id="587tnYxKEEWpK-XJgouO">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="1">
+      <root>
+        <mxCell id="lMfW3kr1fSOp5XsETiN3-0" />
+        <mxCell id="lMfW3kr1fSOp5XsETiN3-1" parent="lMfW3kr1fSOp5XsETiN3-0" />
+        <mxCell id="lMfW3kr1fSOp5XsETiN3-2" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;image=https://cursos-dev.com/assets/images/logo-horizontal.png;" parent="lMfW3kr1fSOp5XsETiN3-1" vertex="1">
+          <mxGeometry width="282.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lMfW3kr1fSOp5XsETiN3-3" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;image=https://cursos-dev.com/assets/images/logo-horizontal.png;" parent="lMfW3kr1fSOp5XsETiN3-1" vertex="1">
+          <mxGeometry width="282.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lMfW3kr1fSOp5XsETiN3-4" value="ATRIBUTOS DE CALIDAD: TESTEABILIDAD" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="lMfW3kr1fSOp5XsETiN3-1" vertex="1">
+          <mxGeometry x="120" y="160" width="620" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lMfW3kr1fSOp5XsETiN3-5" value="Tiene que ver con la facilidad para probar la aplicación y garantizar que funcione correctamente.&lt;div&gt;Usar Jest o Mocha para generar pruebas unitarias&lt;/div&gt;&lt;div&gt;Escribir pruebas automatizadas y mantener un buen coverage.&lt;/div&gt;&lt;div&gt;Porcentaje de código cubierto por las pruebas automatizadas.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=16;spacing=20;" parent="lMfW3kr1fSOp5XsETiN3-1" vertex="1">
+          <mxGeometry x="200" y="280" width="480" height="290" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="5" id="Nti4RhsmLEnLhkMhGudK">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="1">
+      <root>
+        <mxCell id="A5HKVnpO7xB41pIGQFH9-0" />
+        <mxCell id="A5HKVnpO7xB41pIGQFH9-1" parent="A5HKVnpO7xB41pIGQFH9-0" />
+        <mxCell id="A5HKVnpO7xB41pIGQFH9-2" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;image=https://cursos-dev.com/assets/images/logo-horizontal.png;" parent="A5HKVnpO7xB41pIGQFH9-1" vertex="1">
+          <mxGeometry width="282.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="A5HKVnpO7xB41pIGQFH9-3" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;image=https://cursos-dev.com/assets/images/logo-horizontal.png;" parent="A5HKVnpO7xB41pIGQFH9-1" vertex="1">
+          <mxGeometry width="282.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="A5HKVnpO7xB41pIGQFH9-4" value="ATRIBUTOS DE CALIDAD: EXTENSIBILIDAD" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="A5HKVnpO7xB41pIGQFH9-1" vertex="1">
+          <mxGeometry x="120" y="160" width="620" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A5HKVnpO7xB41pIGQFH9-5" value="Capacidad para agregar nuevas funcionalidades sin afectar a las actuales&lt;div&gt;Agregar middlewares para nuevas funcionalidades&lt;/div&gt;&lt;div&gt;Implementar un diseño basado en plugins&lt;/div&gt;&lt;div&gt;Evaluar el tiempo y esfuerzo necesario para extender la aplicación.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=16;spacing=20;" parent="A5HKVnpO7xB41pIGQFH9-1" vertex="1">
+          <mxGeometry x="200" y="280" width="480" height="290" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="6" id="DOnzjDB2fQm3rAnens4-">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="1">
+      <root>
+        <mxCell id="nybkyCgpI-GoHSinL6in-0" />
+        <mxCell id="nybkyCgpI-GoHSinL6in-1" parent="nybkyCgpI-GoHSinL6in-0" />
+        <mxCell id="nybkyCgpI-GoHSinL6in-2" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;image=https://cursos-dev.com/assets/images/logo-horizontal.png;" parent="nybkyCgpI-GoHSinL6in-1" vertex="1">
+          <mxGeometry width="282.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nybkyCgpI-GoHSinL6in-3" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;image=https://cursos-dev.com/assets/images/logo-horizontal.png;" parent="nybkyCgpI-GoHSinL6in-1" vertex="1">
+          <mxGeometry width="282.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nybkyCgpI-GoHSinL6in-4" value="ATRIBUTOS DE CALIDAD: INTEROPERABILIDAD" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="nybkyCgpI-GoHSinL6in-1" vertex="1">
+          <mxGeometry x="120" y="160" width="620" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nybkyCgpI-GoHSinL6in-5" value="Capacidad para interactuar con otras aplicaciones.&lt;div&gt;Usar REST para integrar diferentes aplicaciones.&lt;/div&gt;&lt;div&gt;Seguir estándares de API como Rest o GraphQL&lt;/div&gt;&lt;div&gt;Evaluar el número de aplicaciones externas con las que se puede integrar.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=16;spacing=20;" parent="nybkyCgpI-GoHSinL6in-1" vertex="1">
+          <mxGeometry x="200" y="280" width="480" height="290" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="7" id="cH_Ltquanv6P6g_fMEW8">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="1">
+      <root>
+        <mxCell id="VTvehG81HS6bj59X1oZA-0" />
+        <mxCell id="VTvehG81HS6bj59X1oZA-1" parent="VTvehG81HS6bj59X1oZA-0" />
+        <mxCell id="VTvehG81HS6bj59X1oZA-2" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;image=https://cursos-dev.com/assets/images/logo-horizontal.png;" parent="VTvehG81HS6bj59X1oZA-1" vertex="1">
+          <mxGeometry width="282.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VTvehG81HS6bj59X1oZA-3" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;image=https://cursos-dev.com/assets/images/logo-horizontal.png;" parent="VTvehG81HS6bj59X1oZA-1" vertex="1">
+          <mxGeometry width="282.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VTvehG81HS6bj59X1oZA-4" value="ATRIBUTOS DE CALIDAD: RECUPERACIÓN ANTE DESASTRES" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="VTvehG81HS6bj59X1oZA-1" vertex="1">
+          <mxGeometry x="120" y="160" width="620" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VTvehG81HS6bj59X1oZA-5" value="Se refiere a las estrategias para restaurar una aplicación luego de un fallo.&lt;div&gt;Crear copias automatizadas de una base de datos&lt;/div&gt;&lt;div&gt;Implementar un plan de recuperación y de pruebas de esta restauración.&lt;/div&gt;&lt;div&gt;Medición del tiempo de recuperación de una aplicación luego de un fallo&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=16;spacing=20;" parent="VTvehG81HS6bj59X1oZA-1" vertex="1">
+          <mxGeometry x="200" y="280" width="480" height="290" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="8" id="AR9OzxNAjaylXvYV9vyL">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="1">
+      <root>
+        <mxCell id="G__h5EHdUPi35Y9q6-dS-0" />
+        <mxCell id="G__h5EHdUPi35Y9q6-dS-1" parent="G__h5EHdUPi35Y9q6-dS-0" />
+        <mxCell id="G__h5EHdUPi35Y9q6-dS-2" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;image=https://cursos-dev.com/assets/images/logo-horizontal.png;" parent="G__h5EHdUPi35Y9q6-dS-1" vertex="1">
+          <mxGeometry width="282.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="G__h5EHdUPi35Y9q6-dS-3" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;image=https://cursos-dev.com/assets/images/logo-horizontal.png;" parent="G__h5EHdUPi35Y9q6-dS-1" vertex="1">
+          <mxGeometry width="282.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="G__h5EHdUPi35Y9q6-dS-4" value="ATRIBUTOS DE CALIDAD: ESCALABILIDAD" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="G__h5EHdUPi35Y9q6-dS-1" vertex="1">
+          <mxGeometry x="120" y="160" width="620" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G__h5EHdUPi35Y9q6-dS-5" value="Se refiere a la capacidad de una aplicación para manejar un aumento de la carga de trabajo.&lt;div&gt;Crear la aplicación para que escale horizontalmente añadiendo más instancias.&lt;/div&gt;&lt;div&gt;Pueden usar contenedores y un orquestador de contenedores como es Kubernetes&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=16;spacing=20;" parent="G__h5EHdUPi35Y9q6-dS-1" vertex="1">
+          <mxGeometry x="200" y="280" width="480" height="290" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="9" id="V_6oukfAVZeuK_zUt2mV">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="1">
+      <root>
+        <mxCell id="fLa4DM8nPd_qE5wSRk7B-0" />
+        <mxCell id="fLa4DM8nPd_qE5wSRk7B-1" parent="fLa4DM8nPd_qE5wSRk7B-0" />
+        <mxCell id="fLa4DM8nPd_qE5wSRk7B-2" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;image=https://cursos-dev.com/assets/images/logo-horizontal.png;" parent="fLa4DM8nPd_qE5wSRk7B-1" vertex="1">
+          <mxGeometry width="282.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fLa4DM8nPd_qE5wSRk7B-3" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;image=https://cursos-dev.com/assets/images/logo-horizontal.png;" parent="fLa4DM8nPd_qE5wSRk7B-1" vertex="1">
+          <mxGeometry width="282.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fLa4DM8nPd_qE5wSRk7B-4" value="ATRIBUTOS DE CALIDAD: ELASTICIDAD" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="fLa4DM8nPd_qE5wSRk7B-1" vertex="1">
+          <mxGeometry x="120" y="160" width="620" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fLa4DM8nPd_qE5wSRk7B-5" value="Se refiere a la capacidad de una aplicación para ajustarse dinámicamente a carga de trabajo.&lt;div&gt;Una aplicación que pueda aumentar o disminuir recursos de AWS según la demanda.&lt;/div&gt;&lt;div&gt;Implementar el autoescalado en la infraestructura&lt;/div&gt;&lt;div&gt;Monitorear el uso de recursos y las respuestas de la aplicación&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=16;spacing=20;" parent="fLa4DM8nPd_qE5wSRk7B-1" vertex="1">
+          <mxGeometry x="200" y="280" width="480" height="290" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="9" id="zupytiPEZdJLaVrCwXjL">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="1">
+      <root>
+        <mxCell id="MQg3YwOsA2EmXkRAkwS3-0" />
+        <mxCell id="MQg3YwOsA2EmXkRAkwS3-1" parent="MQg3YwOsA2EmXkRAkwS3-0" />
+        <mxCell id="MQg3YwOsA2EmXkRAkwS3-2" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;image=https://cursos-dev.com/assets/images/logo-horizontal.png;" parent="MQg3YwOsA2EmXkRAkwS3-1" vertex="1">
+          <mxGeometry width="282.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MQg3YwOsA2EmXkRAkwS3-3" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;image=https://cursos-dev.com/assets/images/logo-horizontal.png;" parent="MQg3YwOsA2EmXkRAkwS3-1" vertex="1">
+          <mxGeometry width="282.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MQg3YwOsA2EmXkRAkwS3-4" value="ATRIBUTOS DE CALIDAD: USABILIDAD" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="MQg3YwOsA2EmXkRAkwS3-1" vertex="1">
+          <mxGeometry x="120" y="160" width="620" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MQg3YwOsA2EmXkRAkwS3-5" value="Se refiere a cuán facil puedan los usuarios finales usar la aplicación.&lt;div&gt;La interfaz de usuario intuitiva&lt;/div&gt;&lt;div&gt;Realizar pruebas de usabilidad y recopilar el feedback de los usuarios&lt;/div&gt;&lt;div&gt;Realizar encuestras o pruebas A/B&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=16;spacing=20;" parent="MQg3YwOsA2EmXkRAkwS3-1" vertex="1">
+          <mxGeometry x="200" y="280" width="480" height="290" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="10" id="a3vYVox7Q7kc0EsLa2rJ">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="1">
+      <root>
+        <mxCell id="vECu7sSpdsvRszl5Unmk-0" />
+        <mxCell id="vECu7sSpdsvRszl5Unmk-1" parent="vECu7sSpdsvRszl5Unmk-0" />
+        <mxCell id="vECu7sSpdsvRszl5Unmk-2" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;image=https://cursos-dev.com/assets/images/logo-horizontal.png;" parent="vECu7sSpdsvRszl5Unmk-1" vertex="1">
+          <mxGeometry width="282.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vECu7sSpdsvRszl5Unmk-3" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;image=https://cursos-dev.com/assets/images/logo-horizontal.png;" parent="vECu7sSpdsvRszl5Unmk-1" vertex="1">
+          <mxGeometry width="282.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vECu7sSpdsvRszl5Unmk-4" value="ATRIBUTOS DE CALIDAD: LEGALIDAD" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="vECu7sSpdsvRszl5Unmk-1" vertex="1">
+          <mxGeometry x="120" y="160" width="620" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vECu7sSpdsvRszl5Unmk-5" value="Está relacionado con el cumplimiento de leyes y regulaciones.&lt;div&gt;Realizar auditorias y cumplir con las regulaciones&lt;/div&gt;&lt;div&gt;Medir la cantidad de infracciones legales o quejas.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=16;spacing=20;" parent="vECu7sSpdsvRszl5Unmk-1" vertex="1">
+          <mxGeometry x="200" y="280" width="480" height="290" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="11" id="n7pme4gTCM1XbQEWSLTE">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="1">
+      <root>
+        <mxCell id="MOUrZ_cFpWI6v9PetkyY-0" />
+        <mxCell id="MOUrZ_cFpWI6v9PetkyY-1" parent="MOUrZ_cFpWI6v9PetkyY-0" />
+        <mxCell id="MOUrZ_cFpWI6v9PetkyY-2" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;image=https://cursos-dev.com/assets/images/logo-horizontal.png;" parent="MOUrZ_cFpWI6v9PetkyY-1" vertex="1">
+          <mxGeometry width="282.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MOUrZ_cFpWI6v9PetkyY-3" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;image=https://cursos-dev.com/assets/images/logo-horizontal.png;" parent="MOUrZ_cFpWI6v9PetkyY-1" vertex="1">
+          <mxGeometry width="282.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MOUrZ_cFpWI6v9PetkyY-4" value="ATRIBUTOS DE CALIDAD: FACTIBILIDAD" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="MOUrZ_cFpWI6v9PetkyY-1" vertex="1">
+          <mxGeometry x="120" y="160" width="620" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MOUrZ_cFpWI6v9PetkyY-5" value="Es una evaluación para saber si un proyecto es viable desde el punto de vista técnico y económico.&lt;div&gt;Análisis de costos para implementar el proyecto o también para implementar una funcionalidad&lt;/div&gt;&lt;div&gt;Realizar un estudio de vaiablidad o análisis costo-beneficio&lt;/div&gt;&lt;div&gt;Documentar el retorno de la inversión esperado y también mapear los riesgos asociados&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=16;spacing=20;" parent="MOUrZ_cFpWI6v9PetkyY-1" vertex="1">
+          <mxGeometry x="200" y="280" width="480" height="290" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="12" id="Kb_i1w9xEtRWFIWG5JD0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="1">
+      <root>
+        <mxCell id="gLvNIieX7S2jq0DVZPso-0" />
+        <mxCell id="gLvNIieX7S2jq0DVZPso-1" parent="gLvNIieX7S2jq0DVZPso-0" />
+        <mxCell id="gLvNIieX7S2jq0DVZPso-2" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;image=https://cursos-dev.com/assets/images/logo-horizontal.png;" parent="gLvNIieX7S2jq0DVZPso-1" vertex="1">
+          <mxGeometry width="282.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gLvNIieX7S2jq0DVZPso-3" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;image=https://cursos-dev.com/assets/images/logo-horizontal.png;" parent="gLvNIieX7S2jq0DVZPso-1" vertex="1">
+          <mxGeometry width="282.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gLvNIieX7S2jq0DVZPso-4" value="ATRIBUTOS DE CALIDAD: LOCALIZACIÓN E INTERNACIONALIZACIÓN" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="gLvNIieX7S2jq0DVZPso-1" vertex="1">
+          <mxGeometry x="120" y="160" width="620" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gLvNIieX7S2jq0DVZPso-5" value="Adaptación de la aplicación para diferentes idiomas y culturas.&lt;div&gt;Usar librería como i18Next en un proyecto de nodejs.&lt;/div&gt;&lt;div&gt;Implementar soporte para múltiples idiomas.&lt;/div&gt;&lt;div&gt;Evaluar el tiempoo requerido para agregar un nuevo idioma&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=16;spacing=20;" parent="gLvNIieX7S2jq0DVZPso-1" vertex="1">
+          <mxGeometry x="200" y="280" width="480" height="290" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="13" id="Qb0_aJQXfKlf5VilBY0j">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="1">
+      <root>
+        <mxCell id="933DnCItJsAnGGiMsv2Q-0" />
+        <mxCell id="933DnCItJsAnGGiMsv2Q-1" parent="933DnCItJsAnGGiMsv2Q-0" />
+        <mxCell id="933DnCItJsAnGGiMsv2Q-2" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;image=https://cursos-dev.com/assets/images/logo-horizontal.png;" parent="933DnCItJsAnGGiMsv2Q-1" vertex="1">
+          <mxGeometry width="282.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="933DnCItJsAnGGiMsv2Q-3" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;image=https://cursos-dev.com/assets/images/logo-horizontal.png;" parent="933DnCItJsAnGGiMsv2Q-1" vertex="1">
+          <mxGeometry width="282.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="933DnCItJsAnGGiMsv2Q-4" value="ATRIBUTOS DE CALIDAD: AGILIDAD" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="933DnCItJsAnGGiMsv2Q-1" vertex="1">
+          <mxGeometry x="120" y="160" width="620" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="933DnCItJsAnGGiMsv2Q-5" value="Se refiere a la capacidad de adaptarnos rápidamente a los cambios.&lt;div&gt;Implementar una metodología ágil como scrum o como kanban.&lt;/div&gt;&lt;div&gt;Usar una herramienta de entrega de nuevas funcionalidades como Jira, Trello, ClickUp, etc.&lt;/div&gt;&lt;div&gt;Medir la velocidad de entrega de nuevas funcionalidades y la satisfacción del cliente o usuario&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=16;spacing=20;" parent="933DnCItJsAnGGiMsv2Q-1" vertex="1">
+          <mxGeometry x="200" y="280" width="480" height="290" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="14" id="ZCA-BBHUlgUNOzOFN5Zz">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="1">
+      <root>
+        <mxCell id="nQg9f4aVbcndZgR8miGu-0" />
+        <mxCell id="nQg9f4aVbcndZgR8miGu-1" parent="nQg9f4aVbcndZgR8miGu-0" />
+        <mxCell id="nQg9f4aVbcndZgR8miGu-2" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;image=https://cursos-dev.com/assets/images/logo-horizontal.png;" parent="nQg9f4aVbcndZgR8miGu-1" vertex="1">
+          <mxGeometry width="282.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nQg9f4aVbcndZgR8miGu-3" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;image=https://cursos-dev.com/assets/images/logo-horizontal.png;" parent="nQg9f4aVbcndZgR8miGu-1" vertex="1">
+          <mxGeometry width="282.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nQg9f4aVbcndZgR8miGu-4" value="ATRIBUTOS DE CALIDAD: CONFIABILIDAD" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="nQg9f4aVbcndZgR8miGu-1" vertex="1">
+          <mxGeometry x="120" y="160" width="620" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nQg9f4aVbcndZgR8miGu-5" value="Se refiere a la probabilidad de que una aplicación funcione sin fallas durante un lapso específico.&lt;div&gt;Un sistema de reservas de vuelos o reservas de butacas en un cine o un teatro que responde correctamente.&lt;/div&gt;&lt;div&gt;Implementar pruebas de carga (JMeter, Locust) y monitoreo continuo (NewRelic, Centry).&lt;/div&gt;&lt;div&gt;Medir la tasa de fallos durante un lapso específico&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=16;spacing=20;" parent="nQg9f4aVbcndZgR8miGu-1" vertex="1">
+          <mxGeometry x="200" y="280" width="480" height="290" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="15" id="fiRPVXTbStXmJPxPles9">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="1">
+      <root>
+        <mxCell id="pxgA3qf9n5Owa9UR4c9J-0" />
+        <mxCell id="pxgA3qf9n5Owa9UR4c9J-1" parent="pxgA3qf9n5Owa9UR4c9J-0" />
+        <mxCell id="pxgA3qf9n5Owa9UR4c9J-2" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;image=https://cursos-dev.com/assets/images/logo-horizontal.png;" parent="pxgA3qf9n5Owa9UR4c9J-1" vertex="1">
+          <mxGeometry width="282.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pxgA3qf9n5Owa9UR4c9J-3" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;image=https://cursos-dev.com/assets/images/logo-horizontal.png;" parent="pxgA3qf9n5Owa9UR4c9J-1" vertex="1">
+          <mxGeometry width="282.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pxgA3qf9n5Owa9UR4c9J-4" value="ATRIBUTOS DE CALIDAD: TOLERANCIA A FALLOS" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="pxgA3qf9n5Owa9UR4c9J-1" vertex="1">
+          <mxGeometry x="120" y="160" width="620" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pxgA3qf9n5Owa9UR4c9J-5" value="Se refiere a la capacidad de una aplicación para seguir funcionando antes fallas.&lt;div&gt;Usar réplicas de bases de datos para garantizar la disponibilidad. Implementación del patrón corto circuito.&lt;/div&gt;&lt;div&gt;Hay que implementar redundancia y manejo de excepciones.&lt;/div&gt;&lt;div&gt;Evaluar el tiempo de inactividad cuando ocurren fallas.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=16;spacing=20;" parent="pxgA3qf9n5Owa9UR4c9J-1" vertex="1">
+          <mxGeometry x="200" y="280" width="480" height="290" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="16" id="KrnLW_480orSqdPon75w">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="1">
+      <root>
+        <mxCell id="LcWayS383WeAxHKdZnpm-0" />
+        <mxCell id="LcWayS383WeAxHKdZnpm-1" parent="LcWayS383WeAxHKdZnpm-0" />
+        <mxCell id="LcWayS383WeAxHKdZnpm-2" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;image=https://cursos-dev.com/assets/images/logo-horizontal.png;" parent="LcWayS383WeAxHKdZnpm-1" vertex="1">
+          <mxGeometry width="282.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LcWayS383WeAxHKdZnpm-3" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;image=https://cursos-dev.com/assets/images/logo-horizontal.png;" parent="LcWayS383WeAxHKdZnpm-1" vertex="1">
+          <mxGeometry width="282.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LcWayS383WeAxHKdZnpm-4" value="ATRIBUTOS DE CALIDAD: VARIABILIDAD" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="LcWayS383WeAxHKdZnpm-1" vertex="1">
+          <mxGeometry x="120" y="160" width="620" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LcWayS383WeAxHKdZnpm-5" value="Se refiere a la capacidad de una aplicación parta adaptarse a diferentes requisitos.&lt;div&gt;Una aplicación de gestión de contenidos que permita personalizar los módulos.&lt;/div&gt;&lt;div&gt;Usar configuraciones y parámetros flexibles (parametrizaciones).&lt;/div&gt;&lt;div&gt;Medir cuántas variantes de la aplicación se pueden implementar sin cambios significativos&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=16;spacing=20;" parent="LcWayS383WeAxHKdZnpm-1" vertex="1">
+          <mxGeometry x="200" y="280" width="480" height="290" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="17" id="Qige8CMQ3MUfpXR8Y5Zb">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="1">
+      <root>
+        <mxCell id="TT_mG187T0MhlEhUMswu-0" />
+        <mxCell id="TT_mG187T0MhlEhUMswu-1" parent="TT_mG187T0MhlEhUMswu-0" />
+        <mxCell id="TT_mG187T0MhlEhUMswu-2" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;image=https://cursos-dev.com/assets/images/logo-horizontal.png;" parent="TT_mG187T0MhlEhUMswu-1" vertex="1">
+          <mxGeometry width="282.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TT_mG187T0MhlEhUMswu-3" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;image=https://cursos-dev.com/assets/images/logo-horizontal.png;" parent="TT_mG187T0MhlEhUMswu-1" vertex="1">
+          <mxGeometry width="282.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TT_mG187T0MhlEhUMswu-4" value="ATRIBUTOS DE CALIDAD: DISTRIBUCIÓN DEL DESARROLLO" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="TT_mG187T0MhlEhUMswu-1" vertex="1">
+          <mxGeometry x="120" y="160" width="620" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TT_mG187T0MhlEhUMswu-5" value="Se refiere a la capacidad para desarrollar una aplicación en diferentes ubicaciones geográficas.&lt;div&gt;Un equipo de desarrolladores trabajando en un proyecto usando herramientas de colaboración.&lt;/div&gt;&lt;div&gt;Usar sistemas de control de versiones (Git)&lt;/div&gt;&lt;div&gt;Medir la eficiencia y la productividad del trabajo en equipo y de la calidad del código&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=16;spacing=20;" parent="TT_mG187T0MhlEhUMswu-1" vertex="1">
+          <mxGeometry x="200" y="280" width="480" height="290" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="18" id="NwDQKAoNCPXqg5QiP6RN">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="1">
+      <root>
+        <mxCell id="Igfaj1Nh3H9ZT1FRcG8_-0" />
+        <mxCell id="Igfaj1Nh3H9ZT1FRcG8_-1" parent="Igfaj1Nh3H9ZT1FRcG8_-0" />
+        <mxCell id="Igfaj1Nh3H9ZT1FRcG8_-2" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;image=https://cursos-dev.com/assets/images/logo-horizontal.png;" parent="Igfaj1Nh3H9ZT1FRcG8_-1" vertex="1">
+          <mxGeometry width="282.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Igfaj1Nh3H9ZT1FRcG8_-3" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;image=https://cursos-dev.com/assets/images/logo-horizontal.png;" parent="Igfaj1Nh3H9ZT1FRcG8_-1" vertex="1">
+          <mxGeometry width="282.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Igfaj1Nh3H9ZT1FRcG8_-4" value="ATRIBUTOS DE CALIDAD: FACILIDAD DE SER MONITOREADO" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="Igfaj1Nh3H9ZT1FRcG8_-1" vertex="1">
+          <mxGeometry x="120" y="160" width="620" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Igfaj1Nh3H9ZT1FRcG8_-5" value="Se refiere a la capacidad para supervisar el rendimiento y estado de una aplicación.&lt;div&gt;Integración con Prometheus y Grafana o integración con Telemetría&lt;/div&gt;&lt;div&gt;Implementar logging y las métricas&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=16;spacing=20;" parent="Igfaj1Nh3H9ZT1FRcG8_-1" vertex="1">
+          <mxGeometry x="200" y="280" width="480" height="290" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="19" id="O2aLXv4LF4QjKzr1hcJn">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="1">
+      <root>
+        <mxCell id="KqZT_BbUSxV6xitTy6Np-0" />
+        <mxCell id="KqZT_BbUSxV6xitTy6Np-1" parent="KqZT_BbUSxV6xitTy6Np-0" />
+        <mxCell id="KqZT_BbUSxV6xitTy6Np-2" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;image=https://cursos-dev.com/assets/images/logo-horizontal.png;" parent="KqZT_BbUSxV6xitTy6Np-1" vertex="1">
+          <mxGeometry width="282.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KqZT_BbUSxV6xitTy6Np-3" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;image=https://cursos-dev.com/assets/images/logo-horizontal.png;" parent="KqZT_BbUSxV6xitTy6Np-1" vertex="1">
+          <mxGeometry width="282.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KqZT_BbUSxV6xitTy6Np-4" value="ATRIBUTOS DE CALIDAD: CUMPLIMIENTO DE ESTÁNDARES" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="KqZT_BbUSxV6xitTy6Np-1" vertex="1">
+          <mxGeometry x="120" y="160" width="620" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KqZT_BbUSxV6xitTy6Np-5" value="Se refiere al uso de buenas prácticas y estándares.&lt;div&gt;Seguir las reglas de buenas prácticas de codificación con SonarCloud&lt;/div&gt;&lt;div&gt;Usar linters (eslint, tslint), usar SonarLint&lt;/div&gt;&lt;div&gt;Medir el número de advertencias o errores en el cumplimiento de las buenas prácticas y estándares&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=16;spacing=20;" parent="KqZT_BbUSxV6xitTy6Np-1" vertex="1">
+          <mxGeometry x="200" y="280" width="480" height="290" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="20" id="DzBFf-YJ_VG5eExPkJ-F">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="1">
+      <root>
+        <mxCell id="cZLVGbJcabbJpEcPjQVN-0" />
+        <mxCell id="cZLVGbJcabbJpEcPjQVN-1" parent="cZLVGbJcabbJpEcPjQVN-0" />
+        <mxCell id="cZLVGbJcabbJpEcPjQVN-2" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;image=https://cursos-dev.com/assets/images/logo-horizontal.png;" parent="cZLVGbJcabbJpEcPjQVN-1" vertex="1">
+          <mxGeometry width="282.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cZLVGbJcabbJpEcPjQVN-3" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;image=https://cursos-dev.com/assets/images/logo-horizontal.png;" parent="cZLVGbJcabbJpEcPjQVN-1" vertex="1">
+          <mxGeometry width="282.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cZLVGbJcabbJpEcPjQVN-4" value="ATRIBUTOS DE CALIDAD: FACILIDAD DE DESPLIEGUE" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="cZLVGbJcabbJpEcPjQVN-1" vertex="1">
+          <mxGeometry x="120" y="160" width="620" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cZLVGbJcabbJpEcPjQVN-5" value="Se refiere a la capacidad de implementar la aplicación en producción.&lt;div&gt;Usar contenedores de Docker para facilitar el despliegue de una aplicación.&lt;/div&gt;&lt;div&gt;Automatizar el proceso de despliegue usando alguna herramienta de devops (codepipeline, jenkins, azure devops, etc.)&lt;/div&gt;&lt;div&gt;Medir el tiempo que toma desplegar una nueva versión de la aplicación.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=16;spacing=20;" parent="cZLVGbJcabbJpEcPjQVN-1" vertex="1">
+          <mxGeometry x="200" y="280" width="480" height="290" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="21" id="lourkFAZy8kPi9VJRUS-">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="1">
+      <root>
+        <mxCell id="Vkcogr1dyUcjHstIZ69c-0" />
+        <mxCell id="Vkcogr1dyUcjHstIZ69c-1" parent="Vkcogr1dyUcjHstIZ69c-0" />
+        <mxCell id="Vkcogr1dyUcjHstIZ69c-2" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;image=https://cursos-dev.com/assets/images/logo-horizontal.png;" parent="Vkcogr1dyUcjHstIZ69c-1" vertex="1">
+          <mxGeometry width="282.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Vkcogr1dyUcjHstIZ69c-3" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;image=https://cursos-dev.com/assets/images/logo-horizontal.png;" parent="Vkcogr1dyUcjHstIZ69c-1" vertex="1">
+          <mxGeometry width="282.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Vkcogr1dyUcjHstIZ69c-4" value="ATRIBUTOS DE CALIDAD: PORTABILIDAD" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="Vkcogr1dyUcjHstIZ69c-1" vertex="1">
+          <mxGeometry x="120" y="160" width="620" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vkcogr1dyUcjHstIZ69c-5" value="Se refiere a la capacidad de una aplicación de funcionar en diferentes entornos.&lt;div&gt;Una aplicación de NodeJS que se pueda ejecutar en diferentes sistemas operativos.&lt;/div&gt;&lt;div&gt;Evitar dependencias específicas de la aplicación y usar contenedores&lt;/div&gt;&lt;div&gt;Evaluar el tiempo requerido para ejecutar la aplicación en un nuevo entorno.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=16;spacing=20;" parent="Vkcogr1dyUcjHstIZ69c-1" vertex="1">
+          <mxGeometry x="200" y="280" width="480" height="290" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="22" id="PwDjKHoSkB1gsMcTYMwf">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="1">
+      <root>
+        <mxCell id="qsZf_rYb3N3NlMrfPbvh-0" />
+        <mxCell id="qsZf_rYb3N3NlMrfPbvh-1" parent="qsZf_rYb3N3NlMrfPbvh-0" />
+        <mxCell id="qsZf_rYb3N3NlMrfPbvh-2" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;image=https://cursos-dev.com/assets/images/logo-horizontal.png;" parent="qsZf_rYb3N3NlMrfPbvh-1" vertex="1">
+          <mxGeometry width="282.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qsZf_rYb3N3NlMrfPbvh-3" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;image=https://cursos-dev.com/assets/images/logo-horizontal.png;" parent="qsZf_rYb3N3NlMrfPbvh-1" vertex="1">
+          <mxGeometry width="282.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qsZf_rYb3N3NlMrfPbvh-4" value="ATRIBUTOS DE CALIDAD: PERSONALIZACIÓN" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="qsZf_rYb3N3NlMrfPbvh-1" vertex="1">
+          <mxGeometry x="120" y="160" width="620" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qsZf_rYb3N3NlMrfPbvh-5" value="Se refiere a la capacidad para adaptar la aplicación a las necesidades específicas del cliente o usuario.&lt;div&gt;Un panel de administración que permita&amp;nbsp; a los usuarios configurar opciones personalizadas&lt;/div&gt;&lt;div&gt;Proporcionar opciones de configuración a través de la interfaz&lt;/div&gt;&lt;div&gt;Evaluar la cantidad de personalizaciones realidas por el cliente o usuario.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=16;spacing=20;" parent="qsZf_rYb3N3NlMrfPbvh-1" vertex="1">
+          <mxGeometry x="200" y="280" width="480" height="290" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="23" id="aHUUoAaYgZN6MVE5HP8-">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="1">
+      <root>
+        <mxCell id="orcey4WKAJ2AGw9EQnD_-0" />
+        <mxCell id="orcey4WKAJ2AGw9EQnD_-1" parent="orcey4WKAJ2AGw9EQnD_-0" />
+        <mxCell id="orcey4WKAJ2AGw9EQnD_-2" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;image=https://cursos-dev.com/assets/images/logo-horizontal.png;" vertex="1" parent="orcey4WKAJ2AGw9EQnD_-1">
+          <mxGeometry width="282.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="orcey4WKAJ2AGw9EQnD_-3" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;image=https://cursos-dev.com/assets/images/logo-horizontal.png;" vertex="1" parent="orcey4WKAJ2AGw9EQnD_-1">
+          <mxGeometry width="282.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="orcey4WKAJ2AGw9EQnD_-4" value="ATRIBUTOS DE CALIDAD: COMERCIABILIDAD" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="orcey4WKAJ2AGw9EQnD_-1">
+          <mxGeometry x="120" y="160" width="620" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="orcey4WKAJ2AGw9EQnD_-5" value="Se refiere a la capacidad de un aplicación para ser comercializado&lt;div&gt;Una aplicación de NodeJS con un modelo de negocio claro.&lt;/div&gt;&lt;div&gt;Implementar funcionalidades que agreguen valor al cliente o usuario.&lt;/div&gt;&lt;div&gt;Analizar las métricas de ventas y la satisfacción del cliente o usuario.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=16;spacing=20;" vertex="1" parent="orcey4WKAJ2AGw9EQnD_-1">
+          <mxGeometry x="200" y="280" width="480" height="290" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="24" id="dDFYO8z9zxLQopZ7g1Sn">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="1">
+      <root>
+        <mxCell id="wDx0-P_1yJ8e24qyq858-0" />
+        <mxCell id="wDx0-P_1yJ8e24qyq858-1" parent="wDx0-P_1yJ8e24qyq858-0" />
+        <mxCell id="wDx0-P_1yJ8e24qyq858-2" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;image=https://cursos-dev.com/assets/images/logo-horizontal.png;" parent="wDx0-P_1yJ8e24qyq858-1" vertex="1">
+          <mxGeometry width="282.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wDx0-P_1yJ8e24qyq858-3" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;image=https://cursos-dev.com/assets/images/logo-horizontal.png;" parent="wDx0-P_1yJ8e24qyq858-1" vertex="1">
+          <mxGeometry width="282.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wDx0-P_1yJ8e24qyq858-4" value="ATRIBUTOS DE CALIDAD: CONFIGURABILIDAD" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="wDx0-P_1yJ8e24qyq858-1" vertex="1">
+          <mxGeometry x="120" y="160" width="620" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wDx0-P_1yJ8e24qyq858-5" value="Se refiere a la capacidad de un aplicación de ajustar configuraciones sin modificar el código.&lt;div&gt;Un archivo de configuraciones llamado (.env)&lt;/div&gt;&lt;div&gt;Usar variables de entorno y archivos de configuración.&lt;/div&gt;&lt;div&gt;Medir cuántas configuraciones se pueden ejecutar sin camios en el código.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=16;spacing=20;" parent="wDx0-P_1yJ8e24qyq858-1" vertex="1">
+          <mxGeometry x="200" y="280" width="480" height="290" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="25" id="EGRKeI5_usJ-k8xpwRQS">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="1">
+      <root>
+        <mxCell id="wQzaZuPPSs54Pu98zf_G-0" />
+        <mxCell id="wQzaZuPPSs54Pu98zf_G-1" parent="wQzaZuPPSs54Pu98zf_G-0" />
+        <mxCell id="wQzaZuPPSs54Pu98zf_G-2" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;image=https://cursos-dev.com/assets/images/logo-horizontal.png;" parent="wQzaZuPPSs54Pu98zf_G-1" vertex="1">
+          <mxGeometry width="282.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wQzaZuPPSs54Pu98zf_G-3" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;image=https://cursos-dev.com/assets/images/logo-horizontal.png;" parent="wQzaZuPPSs54Pu98zf_G-1" vertex="1">
+          <mxGeometry width="282.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wQzaZuPPSs54Pu98zf_G-4" value="ATRIBUTOS DE CALIDAD: AUDITABILIDAD" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="wQzaZuPPSs54Pu98zf_G-1" vertex="1">
+          <mxGeometry x="120" y="160" width="620" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wQzaZuPPSs54Pu98zf_G-5" value="Se refiere a la capacidad para realizar un seguimiento y auditoría de la aplicación.&lt;div&gt;Registrar todas las acciones del usuario&lt;/div&gt;&lt;div&gt;Implementar una aplicación de logging estructurado&lt;/div&gt;&lt;div&gt;Medir el tiempo que demora generar un informe de auditoría&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=16;spacing=20;" parent="wQzaZuPPSs54Pu98zf_G-1" vertex="1">
+          <mxGeometry x="200" y="280" width="480" height="290" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="26" id="w44OGFndQtUlF2VW-5UY">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="1">
+      <root>
+        <mxCell id="nUxjVow6zPQTMegFs2i0-0" />
+        <mxCell id="nUxjVow6zPQTMegFs2i0-1" parent="nUxjVow6zPQTMegFs2i0-0" />
+        <mxCell id="nUxjVow6zPQTMegFs2i0-2" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;image=https://cursos-dev.com/assets/images/logo-horizontal.png;" parent="nUxjVow6zPQTMegFs2i0-1" vertex="1">
+          <mxGeometry width="282.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nUxjVow6zPQTMegFs2i0-3" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;image=https://cursos-dev.com/assets/images/logo-horizontal.png;" parent="nUxjVow6zPQTMegFs2i0-1" vertex="1">
+          <mxGeometry width="282.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nUxjVow6zPQTMegFs2i0-4" value="ATRIBUTOS DE CALIDAD: SIMPLICIDAD" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="nUxjVow6zPQTMegFs2i0-1" vertex="1">
+          <mxGeometry x="120" y="160" width="620" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nUxjVow6zPQTMegFs2i0-5" value="Se refiere a un diseño claro y fácil de entender.&lt;div&gt;Una aplicación hecha con NodeJS que sigue los principos SOLID y/o KISS&lt;/div&gt;&lt;div&gt;Mantener funciones pequeñas y enfocadas.&lt;/div&gt;&lt;div&gt;Realizar revisiones de código como code review&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=16;spacing=20;" parent="nUxjVow6zPQTMegFs2i0-1" vertex="1">
+          <mxGeometry x="200" y="280" width="480" height="290" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="27" id="sLfxigqllOXXEZtpK1Y6">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="1">
+      <root>
+        <mxCell id="NZkRK82R98M_H0ZOV5vK-0" />
+        <mxCell id="NZkRK82R98M_H0ZOV5vK-1" parent="NZkRK82R98M_H0ZOV5vK-0" />
+        <mxCell id="NZkRK82R98M_H0ZOV5vK-2" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;image=https://cursos-dev.com/assets/images/logo-horizontal.png;" parent="NZkRK82R98M_H0ZOV5vK-1" vertex="1">
+          <mxGeometry width="282.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NZkRK82R98M_H0ZOV5vK-3" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;image=https://cursos-dev.com/assets/images/logo-horizontal.png;" parent="NZkRK82R98M_H0ZOV5vK-1" vertex="1">
+          <mxGeometry width="282.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NZkRK82R98M_H0ZOV5vK-4" value="ATRIBUTOS DE CALIDAD: EVOLUCIÓN" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="NZkRK82R98M_H0ZOV5vK-1" vertex="1">
+          <mxGeometry x="120" y="160" width="620" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NZkRK82R98M_H0ZOV5vK-5" value="Se refiere a la capacidad una aplicación de adaptarse a cambios futuros.&lt;div&gt;Una aplicación modular que permita agregar nuevas funcionalidades.&lt;/div&gt;&lt;div&gt;Usar patrones de diseño de software&lt;/div&gt;&lt;div&gt;Realizando code review&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=16;spacing=20;" parent="NZkRK82R98M_H0ZOV5vK-1" vertex="1">
+          <mxGeometry x="200" y="280" width="480" height="290" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="28" id="jlZC36IvC_Zai6H-i53X">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="1">
+      <root>
+        <mxCell id="iDU4F4S3pKwqsBsUHQJP-0" />
+        <mxCell id="iDU4F4S3pKwqsBsUHQJP-1" parent="iDU4F4S3pKwqsBsUHQJP-0" />
+        <mxCell id="iDU4F4S3pKwqsBsUHQJP-2" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;image=https://cursos-dev.com/assets/images/logo-horizontal.png;" parent="iDU4F4S3pKwqsBsUHQJP-1" vertex="1">
+          <mxGeometry width="282.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iDU4F4S3pKwqsBsUHQJP-3" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;image=https://cursos-dev.com/assets/images/logo-horizontal.png;" parent="iDU4F4S3pKwqsBsUHQJP-1" vertex="1">
+          <mxGeometry width="282.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iDU4F4S3pKwqsBsUHQJP-4" value="ATRIBUTOS DE CALIDAD: FIABILIDAD" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="iDU4F4S3pKwqsBsUHQJP-1" vertex="1">
+          <mxGeometry x="120" y="160" width="620" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iDU4F4S3pKwqsBsUHQJP-5" value="Se refiere a la consistencia en el funcionamiento de una aplicación.&lt;div&gt;Un servicio API que devuelve resultados correctos en la disponibilidad.&lt;/div&gt;&lt;div&gt;Implementar pruebas automizadas.&lt;/div&gt;&lt;div&gt;Medir la tasa de éxito&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=16;spacing=20;" parent="iDU4F4S3pKwqsBsUHQJP-1" vertex="1">
+          <mxGeometry x="200" y="280" width="480" height="290" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="29" id="GdAeVuC6B5ntpwUth_Yx">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="1">
+      <root>
+        <mxCell id="feBbHJGwbJ5837ZdgkPG-0" />
+        <mxCell id="feBbHJGwbJ5837ZdgkPG-1" parent="feBbHJGwbJ5837ZdgkPG-0" />
+        <mxCell id="S_HTcYFhlIeQHswSO8km-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="feBbHJGwbJ5837ZdgkPG-1">
+          <mxGeometry x="165" y="270" width="530" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="feBbHJGwbJ5837ZdgkPG-2" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;image=https://cursos-dev.com/assets/images/logo-horizontal.png;" vertex="1" parent="feBbHJGwbJ5837ZdgkPG-1">
+          <mxGeometry width="282.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="feBbHJGwbJ5837ZdgkPG-3" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;image=https://cursos-dev.com/assets/images/logo-horizontal.png;" vertex="1" parent="feBbHJGwbJ5837ZdgkPG-1">
+          <mxGeometry width="282.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="S_HTcYFhlIeQHswSO8km-0" value="ARQUITECTURA DE CEBOLLA" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="feBbHJGwbJ5837ZdgkPG-1">
+          <mxGeometry x="120" y="160" width="620" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S_HTcYFhlIeQHswSO8km-2" value="INFRAESTRUCTURA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="feBbHJGwbJ5837ZdgkPG-1">
+          <mxGeometry x="332" y="280" width="196" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jj_mHeMmMPZKjOfw3XYZ-0" value="OPERACIONES&lt;div&gt;BASE DE DATOS&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="feBbHJGwbJ5837ZdgkPG-1">
+          <mxGeometry x="470" y="320" width="102" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jj_mHeMmMPZKjOfw3XYZ-1" value="BASE DE DATOS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="feBbHJGwbJ5837ZdgkPG-1">
+          <mxGeometry x="730" y="280" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Jj_mHeMmMPZKjOfw3XYZ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="feBbHJGwbJ5837ZdgkPG-1" source="Jj_mHeMmMPZKjOfw3XYZ-0" target="Jj_mHeMmMPZKjOfw3XYZ-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jj_mHeMmMPZKjOfw3XYZ-3" value="SES" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ses;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="feBbHJGwbJ5837ZdgkPG-1">
+          <mxGeometry x="790" y="510" width="79.5" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="Jj_mHeMmMPZKjOfw3XYZ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="feBbHJGwbJ5837ZdgkPG-1" source="Jj_mHeMmMPZKjOfw3XYZ-4" target="Jj_mHeMmMPZKjOfw3XYZ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jj_mHeMmMPZKjOfw3XYZ-4" value="ENVÍO EMAILS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="feBbHJGwbJ5837ZdgkPG-1">
+          <mxGeometry x="572" y="440" width="102" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jj_mHeMmMPZKjOfw3XYZ-6" value="SNS" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.sns;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="feBbHJGwbJ5837ZdgkPG-1">
+          <mxGeometry x="740" y="700" width="76.5" height="76.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Jj_mHeMmMPZKjOfw3XYZ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="feBbHJGwbJ5837ZdgkPG-1" source="Jj_mHeMmMPZKjOfw3XYZ-7" target="Jj_mHeMmMPZKjOfw3XYZ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jj_mHeMmMPZKjOfw3XYZ-7" value="ENVÍO SMS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="feBbHJGwbJ5837ZdgkPG-1">
+          <mxGeometry x="540" y="650" width="102" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jj_mHeMmMPZKjOfw3XYZ-9" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.kafka;" vertex="1" parent="feBbHJGwbJ5837ZdgkPG-1">
+          <mxGeometry x="90" y="290" width="56.699999999999996" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="Jj_mHeMmMPZKjOfw3XYZ-10" value="ENVÍO&lt;div&gt;KAFKA&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="feBbHJGwbJ5837ZdgkPG-1">
+          <mxGeometry x="170" y="480" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jj_mHeMmMPZKjOfw3XYZ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.547;entryY=0.881;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="feBbHJGwbJ5837ZdgkPG-1" source="Jj_mHeMmMPZKjOfw3XYZ-10" target="Jj_mHeMmMPZKjOfw3XYZ-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jj_mHeMmMPZKjOfw3XYZ-12" value="KAFKA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="feBbHJGwbJ5837ZdgkPG-1">
+          <mxGeometry x="80" y="250" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jj_mHeMmMPZKjOfw3XYZ-13" value="API&lt;div&gt;REST&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="feBbHJGwbJ5837ZdgkPG-1">
+          <mxGeometry x="180" y="585" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jj_mHeMmMPZKjOfw3XYZ-14" value="API&lt;div&gt;GRAPHQL&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="feBbHJGwbJ5837ZdgkPG-1">
+          <mxGeometry x="200" y="650" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jj_mHeMmMPZKjOfw3XYZ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="feBbHJGwbJ5837ZdgkPG-1" source="Jj_mHeMmMPZKjOfw3XYZ-15" target="Jj_mHeMmMPZKjOfw3XYZ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jj_mHeMmMPZKjOfw3XYZ-15" value="USER" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" vertex="1" parent="feBbHJGwbJ5837ZdgkPG-1">
+          <mxGeometry x="20" y="525" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="Jj_mHeMmMPZKjOfw3XYZ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="feBbHJGwbJ5837ZdgkPG-1" source="Jj_mHeMmMPZKjOfw3XYZ-17" target="Jj_mHeMmMPZKjOfw3XYZ-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jj_mHeMmMPZKjOfw3XYZ-17" value="SERVICIO&lt;div&gt;EXTERNO&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="feBbHJGwbJ5837ZdgkPG-1">
+          <mxGeometry x="30" y="670" width="44.8" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Jj_mHeMmMPZKjOfw3XYZ-19" value="CONTROLADORES" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="feBbHJGwbJ5837ZdgkPG-1">
+          <mxGeometry x="395" y="770" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jj_mHeMmMPZKjOfw3XYZ-20" value="RUTAS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="feBbHJGwbJ5837ZdgkPG-1">
+          <mxGeometry x="250" y="710" width="70" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="30" id="nOUom_lnhhM1qyXitZMa">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="1">
+      <root>
+        <mxCell id="IysgzoYesJg4mJwec7TV-0" />
+        <mxCell id="IysgzoYesJg4mJwec7TV-1" parent="IysgzoYesJg4mJwec7TV-0" />
+        <mxCell id="IysgzoYesJg4mJwec7TV-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="IysgzoYesJg4mJwec7TV-1" vertex="1">
+          <mxGeometry x="165" y="270" width="530" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="IysgzoYesJg4mJwec7TV-3" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;image=https://cursos-dev.com/assets/images/logo-horizontal.png;" parent="IysgzoYesJg4mJwec7TV-1" vertex="1">
+          <mxGeometry width="282.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IysgzoYesJg4mJwec7TV-4" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;image=https://cursos-dev.com/assets/images/logo-horizontal.png;" parent="IysgzoYesJg4mJwec7TV-1" vertex="1">
+          <mxGeometry width="282.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IysgzoYesJg4mJwec7TV-5" value="ARQUITECTURA DE CEBOLLA" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="IysgzoYesJg4mJwec7TV-1" vertex="1">
+          <mxGeometry x="120" y="160" width="620" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IysgzoYesJg4mJwec7TV-6" value="INFRAESTRUCTURA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="IysgzoYesJg4mJwec7TV-1" vertex="1">
+          <mxGeometry x="332" y="280" width="196" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6C59bIZhHsZ8mxRhJNlz-0" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="IysgzoYesJg4mJwec7TV-1">
+          <mxGeometry x="205" y="310" width="450" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="6C59bIZhHsZ8mxRhJNlz-1" value="APLICACIÓN" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="IysgzoYesJg4mJwec7TV-1">
+          <mxGeometry x="332" y="330" width="196" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6C59bIZhHsZ8mxRhJNlz-2" value="CASOS DE USO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="IysgzoYesJg4mJwec7TV-1">
+          <mxGeometry x="310" y="440" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6C59bIZhHsZ8mxRhJNlz-3" value="SERVICIOS DE APLICACIÓN" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="IysgzoYesJg4mJwec7TV-1">
+          <mxGeometry x="490" y="470" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6C59bIZhHsZ8mxRhJNlz-4" value="COMANDOS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="IysgzoYesJg4mJwec7TV-1">
+          <mxGeometry x="210" y="500" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6C59bIZhHsZ8mxRhJNlz-5" value="QUERIES" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="IysgzoYesJg4mJwec7TV-1">
+          <mxGeometry x="230" y="560" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZM5wgbkVBiN1509l8Y5q-0" value="LÓGICA DE NEGOCIO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="IysgzoYesJg4mJwec7TV-1">
+          <mxGeometry x="440" y="570" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="31" id="Alilo3wzMH0qXhtur7cy">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="1">
+      <root>
+        <mxCell id="8uds8Gz4V5ucJm-CBDW1-0" />
+        <mxCell id="8uds8Gz4V5ucJm-CBDW1-1" parent="8uds8Gz4V5ucJm-CBDW1-0" />
+        <mxCell id="8uds8Gz4V5ucJm-CBDW1-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="8uds8Gz4V5ucJm-CBDW1-1">
+          <mxGeometry x="165" y="270" width="530" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="8uds8Gz4V5ucJm-CBDW1-3" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;image=https://cursos-dev.com/assets/images/logo-horizontal.png;" vertex="1" parent="8uds8Gz4V5ucJm-CBDW1-1">
+          <mxGeometry width="282.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8uds8Gz4V5ucJm-CBDW1-4" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;image=https://cursos-dev.com/assets/images/logo-horizontal.png;" vertex="1" parent="8uds8Gz4V5ucJm-CBDW1-1">
+          <mxGeometry width="282.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8uds8Gz4V5ucJm-CBDW1-5" value="ARQUITECTURA DE CEBOLLA" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="8uds8Gz4V5ucJm-CBDW1-1">
+          <mxGeometry x="120" y="160" width="620" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8uds8Gz4V5ucJm-CBDW1-6" value="INFRAESTRUCTURA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="8uds8Gz4V5ucJm-CBDW1-1">
+          <mxGeometry x="332" y="280" width="196" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8uds8Gz4V5ucJm-CBDW1-7" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="8uds8Gz4V5ucJm-CBDW1-1">
+          <mxGeometry x="205" y="310" width="450" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="8uds8Gz4V5ucJm-CBDW1-8" value="APLICACIÓN" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="8uds8Gz4V5ucJm-CBDW1-1">
+          <mxGeometry x="332" y="330" width="196" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YdcdJZpxN-qTFVQO1QLf-0" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="8uds8Gz4V5ucJm-CBDW1-1">
+          <mxGeometry x="255" y="360" width="350" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="YdcdJZpxN-qTFVQO1QLf-1" value="DOMINIO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="8uds8Gz4V5ucJm-CBDW1-1">
+          <mxGeometry x="332" y="380" width="196" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2_E4jaOyFUkuFjHkmjTI-0" value="REGLAS DE DOMINIO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="8uds8Gz4V5ucJm-CBDW1-1">
+          <mxGeometry x="332" y="440" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2_E4jaOyFUkuFjHkmjTI-1" value="SERVICIOS DE DOMINIO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="8uds8Gz4V5ucJm-CBDW1-1">
+          <mxGeometry x="450" y="500" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2_E4jaOyFUkuFjHkmjTI-2" value="FACTORÍAS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="8uds8Gz4V5ucJm-CBDW1-1">
+          <mxGeometry x="270" y="540" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2_E4jaOyFUkuFjHkmjTI-3" value="OBJETOS DE VALOR" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="8uds8Gz4V5ucJm-CBDW1-1">
+          <mxGeometry x="304" y="585" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2_E4jaOyFUkuFjHkmjTI-4" value="EVENTOS DE DOMINIO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="8uds8Gz4V5ucJm-CBDW1-1">
+          <mxGeometry x="400" y="640" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="32" id="W5L93VEjBWN0pC_kXxuM">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="1">
+      <root>
+        <mxCell id="73Cjda7anXOVe8cbIiRb-0" />
+        <mxCell id="73Cjda7anXOVe8cbIiRb-1" parent="73Cjda7anXOVe8cbIiRb-0" />
+        <mxCell id="73Cjda7anXOVe8cbIiRb-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="73Cjda7anXOVe8cbIiRb-1" vertex="1">
+          <mxGeometry x="165" y="270" width="530" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="73Cjda7anXOVe8cbIiRb-3" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;image=https://cursos-dev.com/assets/images/logo-horizontal.png;" parent="73Cjda7anXOVe8cbIiRb-1" vertex="1">
+          <mxGeometry width="282.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="73Cjda7anXOVe8cbIiRb-4" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;sketch=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;image=https://cursos-dev.com/assets/images/logo-horizontal.png;" parent="73Cjda7anXOVe8cbIiRb-1" vertex="1">
+          <mxGeometry width="282.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="73Cjda7anXOVe8cbIiRb-5" value="ARQUITECTURA DE CEBOLLA" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="73Cjda7anXOVe8cbIiRb-1" vertex="1">
+          <mxGeometry x="120" y="160" width="620" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="73Cjda7anXOVe8cbIiRb-6" value="INFRAESTRUCTURA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="73Cjda7anXOVe8cbIiRb-1" vertex="1">
+          <mxGeometry x="332" y="280" width="196" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="73Cjda7anXOVe8cbIiRb-7" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" parent="73Cjda7anXOVe8cbIiRb-1" vertex="1">
+          <mxGeometry x="205" y="310" width="450" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="73Cjda7anXOVe8cbIiRb-8" value="APLICACIÓN" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="73Cjda7anXOVe8cbIiRb-1" vertex="1">
+          <mxGeometry x="332" y="330" width="196" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="73Cjda7anXOVe8cbIiRb-9" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" parent="73Cjda7anXOVe8cbIiRb-1" vertex="1">
+          <mxGeometry x="255" y="360" width="350" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="73Cjda7anXOVe8cbIiRb-10" value="DOMINIO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="73Cjda7anXOVe8cbIiRb-1" vertex="1">
+          <mxGeometry x="332" y="380" width="196" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RqruW3tFJKtj1Kla8RvQ-0" value="REPOSITORIO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="73Cjda7anXOVe8cbIiRb-1">
+          <mxGeometry x="460" y="505" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
