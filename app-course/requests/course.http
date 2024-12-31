@@ -1,0 +1,30 @@
+### Create
+post http://localhost:4010/course
+Content-Type: application/json
+
+{
+    "title": "Angular",
+    "level": "beginner"
+}
+
+### Get all
+get http://localhost:4010/course
+
+### Get one
+get http://localhost:4010/course/7
+
+
+### Update
+put http://localhost:4010/course/6
+Content-Type: application/json
+
+{
+    "title": "NestJS",
+    "level": "advanced"
+}
+
+### Delete
+delete http://localhost:4010/course/1
+
+### Get by page
+get http://localhost:4010/course/page/2/size/5

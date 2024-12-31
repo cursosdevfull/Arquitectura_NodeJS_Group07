@@ -1,0 +1,47 @@
+services:
+  mysql-server:
+    image: mysql:8
+    container_name: mysql-server
+    environment:
+      MYSQL_ROOT_PASSWORD: 12345
+      MYSQL_DATABASE: app_course
+      MYSQL_USER: app_course
+      MYSQL_PASSWORD: 12345
+    ports:
+      - '3306:3306'
+    volumes:
+      - vol-mysql-arquitecture07:/var/lib/mysql
+    networks:
+      - app-course-network
+
+  mysql-server2:
+    image: mysql:8
+    container_name: mysql-server2
+    environment:
+      MYSQL_ROOT_PASSWORD: 12345
+      MYSQL_DATABASE: app_course2
+      MYSQL_USER: app_course
+      MYSQL_PASSWORD: 54321
+    ports:
+      - '3307:3306'
+    networks:
+      - app-course-network
+
+  mysql-client:
+    image: phpmyadmin/phpmyadmin
+    container_name: mysql-client
+    environment:
+      PMA_ARBITRARY: 1
+    ports:
+      - '8080:80'
+    networks:
+      - app-course-network
+
+volumes:
+  vol-mysql-arquitecture07:
+    name: vol-mysql-arquitecture07
+
+networks:
+  app-course-network:
+    driver: bridge
+    name: app-course-network
