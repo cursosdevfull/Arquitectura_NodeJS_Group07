@@ -52,7 +52,7 @@ export class ScheduleInfrastructure implements ScheduleRepository {
 
       const entity = new ScheduleEntity();
       entity.scheduleId = scheduleId;
-      entity.course = courseId;
+      //entity.course = courseId;
       entity.title = title;
       entity.scheduleDate = scheduleDate;
       entity.scheduleTime = scheduleTime;
@@ -85,7 +85,7 @@ export class ScheduleInfrastructure implements ScheduleRepository {
         results.map((result: ScheduleEntity) => {
           const props: ScheduleProps = {
             scheduleId: result.scheduleId,
-            courseId: result.courseId,
+            courseId: 0, //result.courseId,
             title: result.title,
             scheduleDate: result.scheduleDate,
             scheduleTime: result.scheduleTime,
@@ -119,7 +119,7 @@ export class ScheduleInfrastructure implements ScheduleRepository {
 
       const props: ScheduleProps = {
         scheduleId: result.scheduleId,
-        courseId: result.courseId,
+        courseId: 1, //result.courseId,
         title: result.title,
         scheduleDate: result.scheduleDate,
         scheduleTime: result.scheduleTime,
@@ -156,7 +156,7 @@ export class ScheduleInfrastructure implements ScheduleRepository {
       const recordsDomain = records.map((result: ScheduleEntity) => {
         const props: ScheduleProps = {
           scheduleId: result.scheduleId,
-          courseId: result.courseId,
+          courseId: 1, //result.courseId,
           title: result.title,
           scheduleDate: result.scheduleDate,
           scheduleTime: result.scheduleTime,

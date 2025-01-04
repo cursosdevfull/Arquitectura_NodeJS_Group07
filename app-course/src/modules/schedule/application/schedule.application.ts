@@ -1,7 +1,7 @@
 import { Inject } from '@nestjs/common';
 import { CourseAdapter } from 'src/modules/course/adapters/course.adapter';
+import { CoursePort } from 'src/modules/course/ports/course.port';
 
-import { CoursePort } from '../../../../dist/modules/course/ports/course.port';
 import { ScheduleRepository } from '../domain/repositories/schedule.repository';
 import { Schedule } from '../domain/schedule';
 import { ScheduleInfrastructure } from '../infrastructure/schedule.infrastructure';
