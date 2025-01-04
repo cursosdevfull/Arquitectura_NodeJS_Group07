@@ -22,6 +22,6 @@ ENV NODE_ENV=production
 USER node
 COPY --from=deps /usr/src/app/node_modules ./node_modules
 COPY --from=build /usr/src/app/dist ./dist
-COPY --from=build env.txt .
+COPY --from=build /usr/src/app/env.txt .
 
 CMD ["npm", "run", "start"]
