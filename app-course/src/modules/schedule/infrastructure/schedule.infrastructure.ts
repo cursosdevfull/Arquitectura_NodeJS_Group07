@@ -1,4 +1,4 @@
-import { Inject } from '@nestjs/common';
+import { Inject, Injectable } from '@nestjs/common';
 import { err, ok, Result } from 'neverthrow';
 import { ResultPage } from 'src/config/types/result-page';
 import { ScheduleListDatabaseException } from 'src/core/exceptions/database.exception';
@@ -23,6 +23,7 @@ export type ScheduleGetByPageResult = Promise<
 >;
 export type ScheduleSaveResult = Promise<Result<Schedule, BaseException>>;
 
+@Injectable()
 export class ScheduleInfrastructure implements ScheduleRepository {
   constructor(
     @Inject('ScheduleRepository')

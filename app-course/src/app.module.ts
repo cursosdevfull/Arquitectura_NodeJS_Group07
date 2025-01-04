@@ -7,7 +7,7 @@ import { ScheduleModule } from './modules/schedule/infrastructure/presentation/s
 const modules = [
   CourseModule,
   ScheduleModule,
-  ConfigModule.forRoot({ isGlobal: true, envFilePath: '../env.txt' }),
+  ConfigModule.forRoot({ isGlobal: true, envFilePath: './env.txt' }),
 ];
 
 @Module({
