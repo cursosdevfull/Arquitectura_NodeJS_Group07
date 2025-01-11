@@ -12,6 +12,7 @@ phases:
       - echo Build started at `date`
       - echo Building the docker image
       - cd app-course
+      - aws s3 cp s3://cursoarquitectura07/$ENTORNO/env.txt env.txt
       - docker build -t cursoarquitectura .
       - docker tag cursoarquitectura 282865065290.dkr.ecr.us-east-1.amazonaws.com/cursoarquitectura
   post_build:

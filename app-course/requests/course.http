@@ -1,5 +1,5 @@
 ### Create
-post http://localhost:4010/course
+post http://development.eba-nip8saaw.us-east-1.elasticbeanstalk.com/course
 Content-Type: application/json
 
 {
@@ -8,14 +8,14 @@ Content-Type: application/json
 }
 
 ### Get all
-get http://localhost:4010/course
+get http://development.eba-nip8saaw.us-east-1.elasticbeanstalk.com/course
 
 ### Get one
-get http://localhost:4010/course/7
+get http://development.eba-nip8saaw.us-east-1.elasticbeanstalk.com/course/1
 
 
 ### Update
-put http://localhost:4010/course/6
+put http://development.eba-nip8saaw.us-east-1.elasticbeanstalk.com/course/1
 Content-Type: application/json
 
 {
